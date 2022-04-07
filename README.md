@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LookAtYourSKill
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, maybe kotlin soon
 - 📫 How to reach me: Discord (LookAtYourSkill#8691)
 
 <!---
