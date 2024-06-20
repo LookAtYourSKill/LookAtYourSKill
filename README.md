@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LookAtYourSKill
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, html, css, js and java
-- 📫 How to reach me: Discord (LookAtYourSkill#1106)
+- 📫 How to reach me: Discord (LookAtYourSkill)
 
 <!---
 LookAtYourSKill/LookAtYourSKill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
